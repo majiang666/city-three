@@ -1,9 +1,8 @@
 # piker
-
+首发：https://www.love85g.com/?p=1901
 ## demo预览
 ```
 https://www.sjooy.com/city/index.html
-首发：https://www.love85g.com/?p=1901
 ```
 
 ## Project setup
