@@ -1,2 +1,21 @@
-# city-three
-基于mint-ui的piker，根据给出的省、市、区选择对应的地区，三级联动地市
+# piker
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
