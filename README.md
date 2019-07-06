@@ -1,5 +1,10 @@
 # piker
 
+## demo预览
+```
+https://www.sjooy.com/city/index.html
+```
+
 ## Project setup
 ```
 yarn install
